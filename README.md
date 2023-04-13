@@ -1,0 +1,1 @@
+# Simple static page deploy test with Render
